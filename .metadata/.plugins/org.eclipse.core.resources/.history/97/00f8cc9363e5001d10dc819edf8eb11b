@@ -12,7 +12,7 @@ public class Sample {
 	short s = 32767;
 	int i = 4566;
 	float f = 56.66454545455454545f;
-	double d = 562.55654545454;
+	double d = 562.556;
 			
 	System.out.println(f);
 	System.out.println(d);
