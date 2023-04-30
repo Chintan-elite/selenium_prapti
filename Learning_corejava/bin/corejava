@@ -33,5 +33,45 @@ boolean		1 bit
 1024 mb = 1 gb
 1024 gb = 1 tb
 
+datatype casting : convert one type of data into another type
+
+widning or implicite
+nerrwoing or explicite
+
+*********************************************************
+Oprators : 
+************
+
+Arithmatic oprator :
++,-,*,/,%
+
+Relational Oprator : 
+==, >, <, >=, <=
+
+logical : 
+&&, || , !
+
+
+Unary :
+++, --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
