@@ -5,9 +5,8 @@ public class O004_Unary {
 		
 		
 		int a = 10;
-		int b = a-- + a++ - --a;
-		      
-		
+		int b = a-- + ++a - --a;
+		      	
 		System.out.println(a);
 		System.out.println(b);
 		
