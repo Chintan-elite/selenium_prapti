@@ -120,12 +120,6 @@ initialize
 
 types : 
 default ot no args
-parametirized
-
-Name is same as class name
-class : Demo  
-
-const : Demo()
 
 
 

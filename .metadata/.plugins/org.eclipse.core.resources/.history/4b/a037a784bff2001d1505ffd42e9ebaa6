@@ -1,0 +1,46 @@
+package oops;
+
+class Emp
+{
+	Emp()
+	{
+		System.out.println("constructor called...");
+	}
+	
+	Emp(String name)
+	{
+		System.out.println("called by :"+name);
+	}
+	
+	Emp(int a)
+	{
+		System.out.println(a);
+	}
+	
+	String name;
+	String email;
+	String dept;
+	
+	public void display()
+	{
+		System.out.println(name+" "+email+" "+dept);
+	}
+	
+	
+	
+}
+
+public class O003_ConstructorDemo {
+	public static void main(String[] args) {
+		
+//		Emp e = new Emp();
+//		Emp e1 = new Emp("Papti");
+//		Emp e2 = new Emp(10);
+//		
+		
+		Emp e1 = new Emp();
+		e1.display();
+		
+		
+	}
+}

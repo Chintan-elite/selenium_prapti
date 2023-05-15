@@ -75,60 +75,6 @@ int a = 10
 
 int a[] = new int[10]
 
-******************************************
-POP : procedure oriented ex. C
-OOPs : object oriented programming ex. c++ java, C#
-
-Class
-Object
-Encaptilation
-Inheritance
-Polymorphism
-Abstraction
-
-
-Object : realtime entity
-state / Variable / data memeber
-behaviour / Methods / Function member
-
-memeber can be of 2 types : 
-static or class member  : single copy
-non-static or instance member : dependece on object creation
-
-Class : local entity
-
-method :
-
-accessmodifier returntype* methodname*(arg1, arg2)
-{
-	//method body / logic
-} 
-
-public void sample()
-{
-	//body
-}
-
-Object of class : 
-
-class : Demo
-
-Object : Demo d = new Demo();
-
-Constructor : 
-initialize
-
-types : 
-default ot no args
-parametirized
-
-Name is same as class name
-class : Demo  
-
-const : Demo()
-
-
-
 
 
 
