@@ -1,0 +1,32 @@
+package oops;
+
+class A
+{
+	int a = 10;
+	
+	public void display()
+	{
+		System.out.println("Class A display methosd calling...");
+	}
+}
+
+class B
+{
+	int b = 20;
+	
+	public void sample()
+	{
+		System.out.println("Class B sample");
+		System.out.println(b);
+	}
+}
+
+
+public class O007_Inheritance {
+	public static void main(String[] args) {
+		
+		B b = new B();
+		b.sample();
+		
+	}
+}

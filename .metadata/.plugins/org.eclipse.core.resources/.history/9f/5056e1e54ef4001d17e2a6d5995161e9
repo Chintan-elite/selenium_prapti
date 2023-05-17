@@ -1,0 +1,23 @@
+package array;
+
+class Std
+{
+	int id;
+	String name;
+	
+	public void display()
+	{
+		System.out.println(id+" "+name);
+	}
+}
+
+public class O006_EncaptulationDemo {
+	public static void main(String[] args) {
+		
+		
+		Std st = new Std();
+		st.display();
+		
+		
+	}
+}

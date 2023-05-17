@@ -7,4 +7,8 @@
     <fullyQualifiedTypeName name="oops.Student"/>
     <fullyQualifiedTypeName name="oops.Emp"/>
     <fullyQualifiedTypeName name="oops.Demo"/>
+    <fullyQualifiedTypeName name="oops.Calc"/>
+    <fullyQualifiedTypeName name="oops.Modifier"/>
+    <fullyQualifiedTypeName name="array.Std"/>
+    <fullyQualifiedTypeName name="oops.B"/>
 </qualifiedTypeNameHistroy>

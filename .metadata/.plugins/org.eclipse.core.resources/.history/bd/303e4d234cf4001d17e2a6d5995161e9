@@ -1,0 +1,33 @@
+package oops;
+
+class Calc
+{
+	public void sample()
+	{
+		System.out.println("Running sample method...");
+	}
+	
+	public void add(int a, int b)
+	{
+		int r = a+b;
+		System.out.println("Additon is : "+r);
+	}
+	
+	public void square(int a)
+	{
+		int sq= a*a;
+		System.out.println("square is : "+sq);
+	}
+}
+
+public class O005_MethodManipulation {
+	public static void main(String[] args) {
+		
+		Calc c = new Calc();
+		c.sample();
+		c.add(10, 20);
+		c.add(20, 30);
+		c.square(5);
+		
+	}
+}

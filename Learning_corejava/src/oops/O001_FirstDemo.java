@@ -33,6 +33,13 @@ public class O001_FirstDemo {
 		
 		Pen.Sample();
 		
+		Modifier md = new Modifier();
+		md.a = 20;
+		md.name = "aks";
+		md.display();
+		
+		
+		
 		
 	}
 }

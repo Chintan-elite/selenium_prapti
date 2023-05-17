@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;O006_EncaptulationDemo.java&apos; to &apos;Learning_corejava/src/oops&apos;&#x0D;&#x0A;- Original project: &apos;Learning_corejava&apos;&#x0D;&#x0A;- Destination element: &apos;Learning_corejava/src/oops&apos;&#x0D;&#x0A;- Original element: &apos;array.O006_EncaptulationDemo.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;oops" element1="/src&lt;array{O006_EncaptulationDemo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1684286286062" units="1" version="1.0"/>
+</session>

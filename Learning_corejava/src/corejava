@@ -128,6 +128,33 @@ class : Demo
 const : Demo()
 
 
+AccessModifier : 
+*****************************
+public 
+private
+protected
+default
+
+
+Encaptulation : 
+******************
+wrapping datamemeber and function member in single unit and secure data member
+by private access modifier.
+-data hiding
+-security
+
+Inheritance : 
+******************
+use one class proprty into another class
+
+base ---> derived
+parent--->child
+super--->sub
+
+
+
+
+
 
 
 
