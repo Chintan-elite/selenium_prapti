@@ -151,6 +151,32 @@ base ---> derived
 parent--->child
 super--->sub
 
+Polymorphism
+*******************
+same name , many form
+compiletime : methodoverloading 
+runtime : methodoverriding
+
+Abstraction : 
+*******************
+hiding implimantation and showing functionality
+
+we can achieve abstraction using 2 diffrent ways
+1 : abstract class : partial abstraction
+contains both abstract and instance method
+
+2 : Interface : 100% abstraction
+constains only abstract method
+
+abstract method : method without body
+public void display();
+
+
+Instance method : method with body
+public void display()
+{
+	method body
+}
 
 
 

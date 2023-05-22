@@ -1,0 +1,24 @@
+package oops;
+
+class Animal
+{
+	public void voice()
+	{
+		System.out.println("Animal voice...");
+	}
+}
+
+class Dog
+{
+	
+}
+
+
+public class O008_InheritanceDemo {
+	public static void main(String[] args) {
+		
+		Animal animal = new Animal();
+		animal.voice();
+		
+	}
+}
