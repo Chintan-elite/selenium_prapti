@@ -178,6 +178,35 @@ public void display()
 	method body
 }
 
+**********************
+Final : 
+
+variable : can not change its value
+method : can not override
+class : can not inherit
+
+*********************
+static : single copy
+this :refere current class member
+super : refer super / parent class member
+final : not changeble
+
+*********************************************
+Importannt library classes
+
+String
+String buffer
+String builder
+Object
+Wrapper
+
+
+String : 
+*************
+Immutable - not changeable
+
+
+
 
 
 

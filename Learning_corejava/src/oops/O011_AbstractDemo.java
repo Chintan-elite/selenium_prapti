@@ -3,6 +3,11 @@ package oops;
 abstract class Abs
 {
 	public abstract void display();
+	
+	public void sample()
+	{
+		System.out.println("Runing sample");
+	}
 }
 
 class AbsImpl extends Abs
@@ -24,7 +29,7 @@ public class O011_AbstractDemo {
 				
 		AbsImpl abs = new AbsImpl();
 		abs.display();
-		
+		abs.sample();
 		
 	}
 }

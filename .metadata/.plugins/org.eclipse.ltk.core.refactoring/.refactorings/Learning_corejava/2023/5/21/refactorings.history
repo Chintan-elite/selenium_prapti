@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;impclasses.I002_StringMEthoda&apos; to &apos;I002_StringMthodas&apos;&#x0D;&#x0A;- Original project: &apos;Learning_corejava&apos;&#x0D;&#x0A;- Original element: &apos;impclasses.I002_StringMEthoda&apos;&#x0D;&#x0A;- Renamed element: &apos;impclasses.I002_StringMthodas&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;I002_StringMEthoda&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;impclasses{I002_StringMEthoda.java[I002_StringMEthoda" matchStrategy="1" name="I002_StringMthodas" qualified="false" references="true" similarDeclarations="false" stamp="1684977115373" textual="false" version="1.0"/>
+</session>

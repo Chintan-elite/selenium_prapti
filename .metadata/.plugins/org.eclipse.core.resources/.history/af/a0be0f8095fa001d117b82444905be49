@@ -1,0 +1,12 @@
+package oops;
+
+public class Modifier {
+	
+	protected int a = 10;
+	public String name = "test";
+	
+	public void display()
+	{
+		System.out.println(a+" "+name);
+	}
+}

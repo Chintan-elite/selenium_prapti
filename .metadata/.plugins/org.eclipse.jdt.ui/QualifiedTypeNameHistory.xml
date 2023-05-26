@@ -8,7 +8,19 @@
     <fullyQualifiedTypeName name="oops.Emp"/>
     <fullyQualifiedTypeName name="oops.Demo"/>
     <fullyQualifiedTypeName name="oops.Calc"/>
-    <fullyQualifiedTypeName name="oops.Modifier"/>
     <fullyQualifiedTypeName name="array.Std"/>
     <fullyQualifiedTypeName name="oops.B"/>
+    <fullyQualifiedTypeName name="oops.Animal"/>
+    <fullyQualifiedTypeName name="oops.Dog"/>
+    <fullyQualifiedTypeName name="oops.Cat"/>
+    <fullyQualifiedTypeName name="oops.Calc1"/>
+    <fullyQualifiedTypeName name="oops.Q"/>
+    <fullyQualifiedTypeName name="oops.AbsImpl"/>
+    <fullyQualifiedTypeName name="oops.InterImpl"/>
+    <fullyQualifiedTypeName name="oops.Modifier"/>
+    <fullyQualifiedTypeName name="oops.Shape"/>
+    <fullyQualifiedTypeName name="oops.Circle"/>
+    <fullyQualifiedTypeName name="oops.Triangle"/>
+    <fullyQualifiedTypeName name="oops.Square"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
