@@ -1,0 +1,16 @@
+package impclasses;
+
+public class I005_WrapperClass {
+	public static void main(String[] args) {
+		
+		
+		int i = 10;
+		
+		Integer i1 = i;
+		int l =  i1.toString().length();
+		System.out.println(l);
+		
+		
+		
+	}
+}

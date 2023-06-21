@@ -95,7 +95,7 @@ memeber can be of 2 types :
 static or class member  : single copy
 non-static or instance member : dependece on object creation
 
-Class : local entity
+Class : logical entity
 
 method :
 
@@ -204,6 +204,62 @@ Wrapper
 String : 
 *************
 Immutable - not changeable
+string methods
+
+String buffer
+mutable
+sync - slower than builder
+
+String builder
+mutable
+async - faster than buffer
+
+Object : 
+parent class of all the classes in in java
+
+Wrapper class : 
+
+classes dedicated to every primitive datatypes are called wrapper classes
+
+byte -> Byte
+short -> Short
+int -> Integer
+long -> Long
+
+float -> Float
+double -> Double
+
+char -> charectar
+boolean -> Boolean
+
+**************************
+Exeption handling
+
+exception : abnormal condition accures during execution of program
+
+types : 
+Complitime
+Runtime
+
+
+
+
+
+
+
+
+File io
+Thread
+Collection
+
+
+
+
+
+
+
+
+
 
 
 

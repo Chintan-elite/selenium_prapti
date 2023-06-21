@@ -1,0 +1,243 @@
+
+Variables : 
+Conventions : 
+It should start with a lowercase letter such as id, name.
+It should not start with the special characters like & (ampersand), $ (dollar), _ (underscore).
+If the name contains multiple words, start it with the lowercase letter followed by an uppercase letter such as firstName, lastName.
+Avoid using one-character variables such as x, y, z.
+
+Rules : 
+name contains alpha-numeric value and $,_ only
+name can not start with number
+name can not be same as any keyword
+
+
+datatypes : 
+8 datatypes : 
+
+byte   0	1 byte   2^7-1 to -2^7 : 127 to -128
+short  0	2 byte   2^15-1 to -2^15 : 32767 to -32768
+int    0	4 byte   2^31-1 to -2^31 : 
+long   0	8 byte
+
+float  0.0	4 byte
+double 0.0	8 byte
+
+char		2 byte
+boolean		1 bit
+
+
+8 bit = 1 byte
+1024 byte = 1kb
+1024 kb =  1 mb
+1024 mb = 1 gb
+1024 gb = 1 tb
+
+datatype casting : convert one type of data into another type
+
+widning or implicite
+nerrwoing or explicite
+
+*********************************************************
+Oprators : 
+************
+
+Arithmatic oprator :
++,-,*,/,%
+
+Relational Oprator : 
+==, >, <, >=, <=
+
+logical : 
+&&, || , !
+
+
+Unary :
+++, --
+
+*****************************************
+Statements : 
+
+conditional statement
+if
+if-else
+switch-case
+
+looping statements
+for
+while
+do-while
+
+******************************************
+Arrays : 
+
+int a = 10
+
+int a[] = new int[10]
+
+******************************************
+POP : procedure oriented ex. C
+OOPs : object oriented programming ex. c++ java, C#
+
+Class
+Object
+Encaptilation
+Inheritance
+Polymorphism
+Abstraction
+
+
+Object : realtime entity
+state / Variable / data memeber
+behaviour / Methods / Function member
+
+memeber can be of 2 types : 
+static or class member  : single copy
+non-static or instance member : dependece on object creation
+
+Class : local entity
+
+method :
+
+accessmodifier returntype* methodname*(arg1, arg2)
+{
+	//method body / logic
+} 
+
+public void sample()
+{
+	//body
+}
+
+Object of class : 
+
+class : Demo
+
+Object : Demo d = new Demo();
+
+Constructor : 
+initialize
+
+types : 
+default ot no args
+parametirized
+
+Name is same as class name
+class : Demo  
+
+const : Demo()
+
+
+AccessModifier : 
+*****************************
+public 
+private
+protected
+default
+
+
+Encaptulation : 
+******************
+wrapping datamemeber and function member in single unit and secure data member
+by private access modifier.
+-data hiding
+-security
+
+Inheritance : 
+******************
+use one class proprty into another class
+
+base ---> derived
+parent--->child
+super--->sub
+
+Polymorphism
+*******************
+same name , many form
+compiletime : methodoverloading 
+runtime : methodoverriding
+
+Abstraction : 
+*******************
+hiding implimantation and showing functionality
+
+we can achieve abstraction using 2 diffrent ways
+1 : abstract class : partial abstraction
+contains both abstract and instance method
+
+2 : Interface : 100% abstraction
+constains only abstract method
+
+abstract method : method without body
+public void display();
+
+
+Instance method : method with body
+public void display()
+{
+	method body
+}
+
+**********************
+Final : 
+
+variable : can not change its value
+method : can not override
+class : can not inherit
+
+*********************
+static : single copy
+this :refere current class member
+super : refer super / parent class member
+final : not changeble
+
+*********************************************
+Importannt library classes
+
+String
+String buffer
+String builder
+Object
+Wrapper
+
+
+String : 
+*************
+Immutable - not changeable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

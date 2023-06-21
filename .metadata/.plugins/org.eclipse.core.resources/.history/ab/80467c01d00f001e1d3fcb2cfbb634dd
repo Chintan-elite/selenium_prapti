@@ -1,0 +1,20 @@
+package exception;
+
+public class E001_ExceptionDemo {
+	public static void main(String[] args) {
+		
+		
+		System.out.println("program started...");
+		
+		int i =2;
+		int j  = 10/i;
+		
+		
+		System.out.println("Program ended...");
+		
+		
+		
+		
+		
+	}
+}
