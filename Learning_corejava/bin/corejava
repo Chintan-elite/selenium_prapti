@@ -241,16 +241,23 @@ types :
 Complitime
 Runtime
 
-
-
-
-
-
-
-
 File io
+file input/output
+
+stream : flow of data from source to destination
+
+char. based
+filewriter
+filereader
+
+byte based
+fileinputstream
+fileoutputstream
+
 Thread
 Collection
+
+
 
 
 

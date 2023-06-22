@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;F002_FileInputStream.java&apos; to &apos;Learning_corejava/src/fileio&apos;&#x0D;&#x0A;- Original project: &apos;Learning_corejava&apos;&#x0D;&#x0A;- Destination element: &apos;Learning_corejava/src/fileio&apos;&#x0D;&#x0A;- Original element: &apos;fileio.F002_FileInputStream.java&apos;" description="Copy compilation unit" destination="/src&lt;fileio" element1="/src&lt;fileio{F002_FileInputStream.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1687396163816" units="1" version="1.0"/>
+</session>
