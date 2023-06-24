@@ -255,7 +255,20 @@ fileinputstream
 fileoutputstream
 
 Thread
-Collection
+part of process or light wait process
+
+Thread class
+Runnable interface
+
+sleep()
+
+Collection framework / library
+***********************
+arraylist
+hashset
+linkedhashset
+treeset
+
 
 
 
