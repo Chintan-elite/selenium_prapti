@@ -1,0 +1,83 @@
+Automation testing : 
+QTP : quick test pro - hp
+commercial -- paid software
+-windows
+
+Selenium
+open source - freeware
+-window, macos, linux
+
+-speed
+-accurecy
+-repeatable
+-grop test
+
+********************************
+WebElements : 
+
+textbox
+buttons
+radiobuttons
+checkbox
+dropdown
+link
+
+Locators : 
+
+id
+name
+classname
+xpath
+css selector
+tagname
+linktext
+partiallinktext
+
+*********************************
+Selenium is not a single tool. it is suit , goroup of tools
+
+-Selenium IDE
+-record and reply tool
+-no need to lean programming lang.
+-we cant do looping and condtional opration
+
+
+-Selenium Grid
+-used for parallal testing
+-it use node and hub concept
+-can control testiong on many node system from one hub system.
+
+-Selenium RC - remote control
+-long term flagship tool
+-we can use many programming lang. 
+like..java, php, python, perl, rubby, c#
+
+-script --> middleware --> brwoser
+--it uses middleware server to communicate with browser
+
+-Selenium Webdriver
+-we can use many programming lang. 
+like..java, php, python, perl, rubby, c#
+
+-script --> brwoser
+--it will directly communicate with browser
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
