@@ -24,14 +24,14 @@ link
 
 Locators : 
 
-id
-name
-classname
+id -
+name -
+classname -
 xpath
 css selector
-tagname
-linktext
-partiallinktext
+tagname -
+linktext -
+partiallinktext - 
 
 *********************************
 Selenium is not a single tool. it is suit , goroup of tools
@@ -63,6 +63,58 @@ like..java, php, python, perl, rubby, c#
 --it will directly communicate with browser
 
 *************************************
+
+
+1 : we can not use alpha numeric Id
+2 : we can not use compund classes
+3 : for link text locator verify ancher tag
+4 : we can not use "" inside ""
+5 : every elment can not have id, name or classname, we have to use xpath or css selector
+6 : n number of way to get xpath or css selectors : right click on highlated code and copy xpath or css selectors
+
+
+
+12	$("") - for css ,    $x("")   or xpath
+13	//tagName[@attribute='value']  - xpath syntax
+14	tagName[attribute='value']  -CSS  tagName#id- CSS   tagname.classname- CSS
+15	//tagName[contains(@attribute,'value')]  - xpath regular expression
+16	tagName[Atrribute*='value'] - Css regular expression
+
+
+how to createxpath : 
+***********************************
+1 : //tagName[@attribute='value']
+
+//input[@name='email']
+
+//*[@name='email']
+
+2 : //tagName[contains(@attribute,'value')] 
+
+//input[contains(@id,'u_j_')]
+//*[contains(@id,'u_j_')]
+
+3 : parent - child traversing
+//table[@id='customers']/tbody/tr[4]/td[3]
+
+4 : child - to parent traversing
+//div[@id='userName']/parent::div/parent::div
+
+5 : sibllings traversing
+//div[@id='userName']/parent::div/parent::div/preceding-sibling::div[1]
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

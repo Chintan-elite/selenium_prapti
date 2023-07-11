@@ -1,4 +1,4 @@
-import oops.Modifier;
+import a04_oops.Modifier;
 
 public class Demo  {
 		
