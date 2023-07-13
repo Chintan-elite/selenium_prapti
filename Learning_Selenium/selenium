@@ -103,7 +103,8 @@ how to createxpath :
 5 : sibllings traversing
 //div[@id='userName']/parent::div/parent::div/preceding-sibling::div[1]
 
-
+6 : by text
+//*[text()='']
 
 
 
