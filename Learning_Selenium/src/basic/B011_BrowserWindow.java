@@ -23,9 +23,9 @@ public class B011_BrowserWindow {
 		for(String win : wins)
 		{
 			if(win!=mainWin)
-			{
-				driver.switchTo().window(win);
-			}
+				{
+					driver.switchTo().window(win);
+				}
 		}
 		
 		

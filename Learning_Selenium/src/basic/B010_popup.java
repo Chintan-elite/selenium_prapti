@@ -36,7 +36,9 @@ public class B010_popup {
 		
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
 		driver.findElement(By.id("timerAlertButton")).click();
+		
 		wait.until(ExpectedConditions.alertIsPresent());
+		
 		Alert alert = driver.switchTo().alert();
 		alert.accept();
 		
