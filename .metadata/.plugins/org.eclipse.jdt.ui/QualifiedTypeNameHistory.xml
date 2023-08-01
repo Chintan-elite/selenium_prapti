@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="oops.Calc"/>
-    <fullyQualifiedTypeName name="array.Std"/>
-    <fullyQualifiedTypeName name="oops.B"/>
-    <fullyQualifiedTypeName name="oops.Animal"/>
-    <fullyQualifiedTypeName name="oops.Dog"/>
-    <fullyQualifiedTypeName name="oops.Cat"/>
-    <fullyQualifiedTypeName name="oops.Calc1"/>
-    <fullyQualifiedTypeName name="oops.Q"/>
-    <fullyQualifiedTypeName name="oops.AbsImpl"/>
-    <fullyQualifiedTypeName name="oops.InterImpl"/>
-    <fullyQualifiedTypeName name="oops.Modifier"/>
-    <fullyQualifiedTypeName name="oops.Shape"/>
-    <fullyQualifiedTypeName name="oops.Circle"/>
-    <fullyQualifiedTypeName name="oops.Triangle"/>
-    <fullyQualifiedTypeName name="oops.Square"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="impclasses.B"/>
     <fullyQualifiedTypeName name="impclasses.A"/>
@@ -52,12 +35,29 @@
     <fullyQualifiedTypeName name="org.openqa.selenium.interactions.Actions"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.Keys"/>
     <fullyQualifiedTypeName name="java.time.Duration"/>
-    <fullyQualifiedTypeName name="util.DriverConnection"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.JavascriptExecutor"/>
     <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="org.junit.Before"/>
+    <fullyQualifiedTypeName name="org.junit.After"/>
+    <fullyQualifiedTypeName name="org.junit.Ignore"/>
+    <fullyQualifiedTypeName name="com.Calc"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="util.DriverConnection"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+    <fullyQualifiedTypeName name="org.junit.runners.Parameterized"/>
+    <fullyQualifiedTypeName name="org.junit.runners.Parameterized.Parameters"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+    <fullyQualifiedTypeName name="org.junit.runners.Suite"/>
+    <fullyQualifiedTypeName name="org.junit.runners.Suite.SuiteClasses"/>
+    <fullyQualifiedTypeName name="com.CalcTest"/>
+    <fullyQualifiedTypeName name="com.LoginTest"/>
+    <fullyQualifiedTypeName name="com.ParameterisedTest"/>
+    <fullyQualifiedTypeName name="org.junit.AfterClass"/>
 </qualifiedTypeNameHistroy>
