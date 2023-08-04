@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="12" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-04T01:20:40Z" name="Suite" finished-at="2023-08-04T01:20:40Z" duration-ms="126">
+    <groups>
+      <group name="smoke">
+        <method signature="Account.currentAccount()[pri:0, instance:group.Account@4d1c005e]" name="currentAccount" class="group.Account"/>
+        <method signature="Account.loanAccount()[pri:0, instance:group.Account@4d1c005e]" name="loanAccount" class="group.Account"/>
+        <method signature="Payment.cod()[pri:0, instance:group.Payment@8462f31]" name="cod" class="group.Payment"/>
+        <method signature="Payment.debetCardTest()[pri:0, instance:group.Payment@8462f31]" name="debetCardTest" class="group.Payment"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="Payment.debetCardTest()[pri:0, instance:group.Payment@8462f31]" name="debetCardTest" class="group.Payment"/>
+        <method signature="Account.savingAccount()[pri:0, instance:group.Account@72bc6553]" name="savingAccount" class="group.Account"/>
+        <method signature="Payment.creditCardTest()[pri:0, instance:group.Payment@66982506]" name="creditCardTest" class="group.Payment"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2023-08-04T01:20:40Z" name="Test1" finished-at="2023-08-04T01:20:40Z" duration-ms="26">
+      <class name="group.Account">
+        <test-method signature="currentAccount()[pri:0, instance:group.Account@4d1c005e]" started-at="2023-08-04T01:20:40Z" name="currentAccount" finished-at="2023-08-04T01:20:40Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currentAccount -->
+        <test-method signature="loanAccount()[pri:0, instance:group.Account@4d1c005e]" started-at="2023-08-04T01:20:40Z" name="loanAccount" finished-at="2023-08-04T01:20:40Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanAccount -->
+      </class> <!-- group.Account -->
+      <class name="group.Payment">
+        <test-method signature="cod()[pri:0, instance:group.Payment@8462f31]" started-at="2023-08-04T01:20:40Z" name="cod" finished-at="2023-08-04T01:20:40Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cod -->
+        <test-method signature="debetCardTest()[pri:0, instance:group.Payment@8462f31]" started-at="2023-08-04T01:20:40Z" name="debetCardTest" finished-at="2023-08-04T01:20:40Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- debetCardTest -->
+      </class> <!-- group.Payment -->
+    </test> <!-- Test1 -->
+    <test started-at="2023-08-04T01:20:40Z" name="Test2" finished-at="2023-08-04T01:20:40Z" duration-ms="4">
+      <class name="group.Account">
+        <test-method signature="savingAccount()[pri:0, instance:group.Account@72bc6553]" started-at="2023-08-04T01:20:40Z" name="savingAccount" finished-at="2023-08-04T01:20:40Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- savingAccount -->
+      </class> <!-- group.Account -->
+      <class name="group.Payment">
+        <test-method signature="creditCardTest()[pri:0, instance:group.Payment@66982506]" started-at="2023-08-04T01:20:40Z" name="creditCardTest" finished-at="2023-08-04T01:20:40Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creditCardTest -->
+      </class> <!-- group.Payment -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
